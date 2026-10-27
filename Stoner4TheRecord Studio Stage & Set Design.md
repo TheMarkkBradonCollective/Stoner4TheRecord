@@ -1,4 +1,7 @@
 # 🎥 Studio Stage & Set Design
+### Version 1.1
+
+**Website:** https://stoner4therecord.com
 
 ## Philosophy
 
@@ -324,6 +327,15 @@ Examples:
 - Warm lighting
 - Orange glow
 - Green accents
+- Comfortable seating layouts (Layouts B–G)
+
+---
+
+## Extended Chit Chat Smoke Sesh
+
+- Same warm palette as standard Smoke Sesh
+- Wider camera framing for multiple guests
+- Lounge-style furniture preferred
 
 ---
 
@@ -391,3 +403,13 @@ The consistent visual anchors are:
 - The dance floor in front of the stage
 - The audience surrounding the experience
 - The signature Stoner4TheRecord branding displayed throughout the studio
+
+---
+
+# Related Documentation
+
+- [README.md](README.md) — Documentation index
+- [Stoner4TheRecord Official Live Broadcast Format.md](Stoner4TheRecord%20Official%20Live%20Broadcast%20Format.md) — Run-of-show timeline
+- [Stoner4TheRecord Podcast.md](Stoner4TheRecord%20Podcast.md) — Programming guide
+- [Stoner4TheRecord Production Platform & Digital Broadcasting Ecosystem](Stoner4TheRecord%20Production%20Platform%20%26%20Digital%20Broadcasting%20Ecosystem) — Production platform
+- [Stoner4TheRecord Website Design Blueprint.md](Stoner4TheRecord%20Website%20Design%20Blueprint.md) — Website design

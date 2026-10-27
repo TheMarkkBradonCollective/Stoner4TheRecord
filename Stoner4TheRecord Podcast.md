@@ -1,6 +1,6 @@
 # 🌿 Stoner4TheRecord
 ## Official Show Format & Programming Guide
-### Version 1.0
+### Version 1.1
 
 **Website:** https://stoner4therecord.com
 
@@ -85,7 +85,7 @@ This creates the feeling of tuning into a real radio station already on the air.
 
 ## The Heart of Stoner4TheRecord
 
-Every major segment begins and ends here.
+Every major segment begins and ends here. The host is the anchor of the show — every host break pitches back to the Smoke Sesh.
 
 The Chit Chat Smoke Sesh is where the audience hangs out with the host.
 
@@ -163,11 +163,11 @@ Possible guests include:
 
 **8 Minutes**
 
-Every entertainment block is introduced by a live sponsor segment.
+Every entertainment block is introduced by a live sponsor segment placed **after the host and before the next segment** (DJ set, comedy, or games).
 
 There are **NO prerecorded commercials.**
 
-Sponsors appear live with the host.
+Sponsors appear live with the host during the Chit Chat Smoke Sesh.
 
 Typical sponsor spotlight:
 
@@ -348,79 +348,79 @@ Features include:
 
 # Official Broadcast Flow
 
+See [Stoner4TheRecord Official Live Broadcast Format.md](Stoner4TheRecord%20Official%20Live%20Broadcast%20Format.md) for the full timed run-of-show.
+
 ## Pre-Show
 
-🎧 Guest DJ Warm-Up
+🎧 Guest DJ Warm-Up — **15–30 min**
 
 ↓
 
 ## Official Show Begins
 
-🌿 Chit Chat Smoke Sesh
+🌿 Opening Chit Chat Smoke Sesh — **15 min**
 
 ↓
 
-🎙️ Live Sponsor Spotlight
+🎙️ Live Sponsor Spotlight — **8 min**
 
 ↓
 
-🎧 Host DJ Set
+🎧 Host DJ Set — **30 min**
 
 ↓
 
-🌿 Chit Chat Smoke Sesh
+🌿 Chit Chat Smoke Sesh (Host Break) — **5 min**
 
 ↓
 
-🎙️ Live Sponsor Spotlight
+🎙️ Live Sponsor Spotlight — **8 min**
 
 ↓
 
-🎧 Guest DJ Set #1
+🎧 Guest DJ Set #1 — **30 min**
 
 ↓
 
-🌿 Chit Chat Smoke Sesh
+🌿 Chit Chat Smoke Sesh (Host Break) — **5 min**
 
 ↓
 
-🎙️ Live Sponsor Spotlight
+🎙️ Live Sponsor Spotlight — **8 min**
 
 ↓
 
-😂 Comedy Corner
+😂 Comedy Corner — **20 min**
 
 ↓
 
-🌿 Chit Chat Smoke Sesh
+🌿 Extended Chit Chat Smoke Sesh — **15 min**
 
 ↓
 
-🎙️ Live Sponsor Spotlight
+🎙️ Live Sponsor Spotlight — **8 min**
 
 ↓
 
-🎮 Stoner Games
+🎮 Stoner Games — **60 min**
 
 ↓
 
-🌿 Chit Chat Smoke Sesh
+🌿 Chit Chat Smoke Sesh (Host Break) — **5 min**
 
 ↓
 
-🎙️ Live Sponsor Spotlight
+🎙️ Live Sponsor Spotlight — **8 min**
 
 ↓
 
-🎧 Guest DJ Set #2
+🎧 Guest DJ Set #2 — **30 min**
 
 ↓
 
-🌿 Chit Chat Smoke Sesh
+🌿 Closing Chit Chat Smoke Sesh — **15 min**
 
-↓
-
-Closing Remarks
+**Total official show:** ~4 hours 6 minutes (excluding pre-show)
 
 ---
 
@@ -564,3 +564,13 @@ Every episode is designed to feel like you're hanging out with friends—sharing
 Whether you're listening in your car, watching the livestream, or joining the chat from home, you're not just part of the audience.
 
 **You're part of the session.**
+
+---
+
+# Related Documentation
+
+- [README.md](README.md) — Documentation index
+- [Stoner4TheRecord Official Live Broadcast Format.md](Stoner4TheRecord%20Official%20Live%20Broadcast%20Format.md) — Timed run-of-show
+- [Stoner4TheRecord Studio Stage & Set Design.md](Stoner4TheRecord%20Studio%20Stage%20%26%20Set%20Design.md) — Studio layout and lighting
+- [Stoner4TheRecord Production Platform & Digital Broadcasting Ecosystem](Stoner4TheRecord%20Production%20Platform%20%26%20Digital%20Broadcasting%20Ecosystem) — Production dashboard and games
+- [Stoner4TheRecord Website Design Blueprint.md](Stoner4TheRecord%20Website%20Design%20Blueprint.md) — Website and viewer experience

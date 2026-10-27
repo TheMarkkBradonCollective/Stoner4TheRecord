@@ -1,9 +1,8 @@
 # 🌿 Stoner4TheRecord
 # Website Design Blueprint
-## Version 1.0
+## Version 1.1
 
-**Domain**
-stoner4therecord.com
+**Domain:** https://stoner4therecord.com
 
 ---
 
@@ -51,7 +50,7 @@ Contains:
 • Live Chat
 • Current Host
 • Current DJ
-• Current Segment
+• Current Segment (Chit Chat Smoke Sesh, DJ Set, Comedy, Games, Sponsor)
 • Now Playing
 • Live View Count
 • Current Sponsor
@@ -85,6 +84,8 @@ Schedule
 Shows
 
 Hosts
+
+Chit Chat Smoke Sesh
 
 DJs
 
@@ -821,3 +822,13 @@ Annual Awards Show
 The goal is for visitors to forget they're on a website.
 
 Instead, they should feel like they've entered a live, interactive entertainment network where they can watch, listen, chat, play, discover music, support creators, interact with sponsors, and become part of the **Stoner4TheRecord** community.
+
+---
+
+# Related Documentation
+
+- [README.md](README.md) — Documentation index
+- [Stoner4TheRecord Official Live Broadcast Format.md](Stoner4TheRecord%20Official%20Live%20Broadcast%20Format.md) — Run-of-show timeline
+- [Stoner4TheRecord Podcast.md](Stoner4TheRecord%20Podcast.md) — Programming guide
+- [Stoner4TheRecord Studio Stage & Set Design.md](Stoner4TheRecord%20Studio%20Stage%20%26%20Set%20Design.md) — Studio layout
+- [Stoner4TheRecord Production Platform & Digital Broadcasting Ecosystem](Stoner4TheRecord%20Production%20Platform%20%26%20Digital%20Broadcasting%20Ecosystem) — Production platform

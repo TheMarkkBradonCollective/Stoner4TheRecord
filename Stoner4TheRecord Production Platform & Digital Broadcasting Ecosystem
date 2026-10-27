@@ -1,8 +1,8 @@
 # 🌿 Stoner4TheRecord
 # Production Platform & Digital Broadcasting Ecosystem
-## Version 2.0
+## Version 2.1
 
----
+**Website:** https://stoner4therecord.com
 
 # Vision
 
@@ -277,25 +277,31 @@ Changes appear instantly across the production.
 
 # Live Production Timeline
 
-Every broadcast has a timeline.
+Every broadcast follows the official run-of-show. See [Stoner4TheRecord Official Live Broadcast Format.md](Stoner4TheRecord%20Official%20Live%20Broadcast%20Format.md) for full segment lengths.
 
-Example:
+Example timeline (official show):
 
-00:00 Countdown
+| Time | Segment |
+|------|---------|
+| 00:00 | Guest DJ Warm-Up (pre-show) |
+| 00:20 | Opening Chit Chat Smoke Sesh |
+| 00:35 | Live Sponsor Spotlight |
+| 00:43 | Host DJ Set |
+| 01:13 | Chit Chat Smoke Sesh (Host Break) |
+| 01:18 | Live Sponsor Spotlight |
+| 01:26 | Guest DJ Set #1 |
+| 01:56 | Chit Chat Smoke Sesh (Host Break) |
+| 02:01 | Live Sponsor Spotlight |
+| 02:09 | Comedy Corner |
+| 02:29 | Extended Chit Chat Smoke Sesh |
+| 02:44 | Live Sponsor Spotlight |
+| 02:52 | Stoner Games |
+| 03:52 | Chit Chat Smoke Sesh (Host Break) |
+| 03:57 | Live Sponsor Spotlight |
+| 04:05 | Guest DJ Set #2 |
+| 04:35 | Closing Chit Chat Smoke Sesh |
 
-00:15 Host
-
-00:30 Sponsor
-
-00:38 DJ
-
-01:08 Smoke Sesh
-
-01:20 Comedy
-
-...
-
-Operators receive automatic reminders.
+Operators receive automatic reminders at each segment change.
 
 ---
 
@@ -706,3 +712,13 @@ The production dashboard serves as the television control room.
 The mobile app serves as the audience's interactive companion.
 
 Every broadcast, game, recording, playlist, and community interaction lives within a single unified platform, allowing creators, staff, sponsors, DJs, hosts, and viewers to participate together in one seamless entertainment experience.
+
+---
+
+# Related Documentation
+
+- [README.md](README.md) — Documentation index
+- [Stoner4TheRecord Official Live Broadcast Format.md](Stoner4TheRecord%20Official%20Live%20Broadcast%20Format.md) — Run-of-show timeline
+- [Stoner4TheRecord Podcast.md](Stoner4TheRecord%20Podcast.md) — Programming guide and production rules
+- [Stoner4TheRecord Studio Stage & Set Design.md](Stoner4TheRecord%20Studio%20Stage%20%26%20Set%20Design.md) — Studio layout
+- [Stoner4TheRecord Website Design Blueprint.md](Stoner4TheRecord%20Website%20Design%20Blueprint.md) — Public website design

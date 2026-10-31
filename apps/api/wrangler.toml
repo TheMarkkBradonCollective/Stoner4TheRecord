@@ -1,0 +1,13 @@
+name = "stoner4therecord-api"
+main = "src/index.ts"
+compatibility_date = "2025-03-01"
+compatibility_flags = ["nodejs_compat"]
+
+[vars]
+LIVE_STREAM_URL = "https://www.youtube.com/embed/jfKfPfyJRdk"
+
+# Set the Neon connection string as a secret (never commit):
+#   wrangler secret put DATABASE_URL
+
+[observability]
+enabled = true

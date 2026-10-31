@@ -11,3 +11,7 @@ LIVE_STREAM_URL = "https://www.youtube.com/embed/jfKfPfyJRdk"
 
 [observability]
 enabled = true
+
+[[r2_buckets]]
+binding = "MEDIA"
+bucket_name = "stoner4therecord-media"

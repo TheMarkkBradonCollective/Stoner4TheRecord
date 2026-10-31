@@ -116,4 +116,21 @@ npm run dev:web
 - `GET /api/sponsors` — sponsor list (`?featured=1` for homepage)
 - `GET /api/segments` — segment / games catalog (`?category=Games`)
 
-R2 and media uploads are not included in this MVP (planned in the production platform docs for archives and sponsor assets).
+R2 bucket **`stoner4therecord-media`** is bound to the Worker as `MEDIA` (for archives and sponsor assets); upload routes are not built yet.
+
+## Live deployment
+
+| Piece | Where |
+|-------|-------|
+| Live site (Cloudflare Pages) | https://stoner4therecord.pages.dev |
+| API (Cloudflare Worker) | https://stoner4therecord-api.themarkkbrandoncollective-2d9.workers.dev |
+| File storage (Cloudflare R2) | bucket `stoner4therecord-media` (binding `MEDIA`) |
+| Database (Neon Postgres) | project `stoner4therecord`, database `app` |
+
+Environment variable names (values live only in Cloudflare secrets/env, never in the repo):
+
+- `DATABASE_URL` — Neon connection string (Worker secret)
+- `LIVE_STREAM_URL` — public live stream embed URL (Worker var)
+- `VITE_API_BASE_URL` — Worker API URL for the Pages build
+
+No APK or mobile build exists for this project.
